@@ -75,3 +75,6 @@
     text-transform: capitalize;
     text-shadow: black 0.2em 0.2em 0.3em
 }
+footer{
+    text-decoration: none;
+}
