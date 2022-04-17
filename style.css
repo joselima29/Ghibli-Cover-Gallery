@@ -76,5 +76,10 @@
     text-shadow: black 0.2em 0.2em 0.3em
 }
 footer{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+footer a{
     text-decoration: none;
 }
